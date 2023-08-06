@@ -4,6 +4,7 @@ this app is done using python, linear regression, data visualization, and stream
 
 # Packages need to install:
 streamlit, sklearn, seaborn, plotly and plotly utils in Command Prompt
+
 # How to open streamlit web app:
 Open Command Prompt and change the directory to the path in which your code is present.
 # After that type streamlit run code.py to open the streamlit web app as shown below.
