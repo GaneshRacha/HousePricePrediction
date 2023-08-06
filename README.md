@@ -1,12 +1,12 @@
 # HousePricePrediction
-Data-science-web-app-using-streamlit
+# Data-science-web-app-using-streamlit
 this app is done using python, linear regression, data visualization, and streamlit library
 
 Packages need to install:
 streamlit, sklearn, seaborn, plotly and plotly utils in Command Prompt
 How to open streamlit web app:
 Open Command Prompt and change the directory to the path in which your code is present.
-After that type streamlit run code.py to open the streamlit web app as shown below.
+# After that type streamlit run code.py to open the streamlit web app as shown below.
 ![image](https://github.com/GaneshRacha/HousePricePrediction/assets/60355360/3eb61aa4-740c-4926-a305-874af4f795bf)
 
 Project description
